@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UMR.WebClient", "http://localhost/UMR.WebClient", "{D20F73F0-8D92-49A7-B581-96FFE24A5BBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/UMR.WebClient"
+		Debug.AspNetCompiler.PhysicalPath = "..\Patient\UMR\UMR.WebClient\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\UMR.WebClient\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/UMR.WebClient"
+		Release.AspNetCompiler.PhysicalPath = "..\Patient\UMR\UMR.WebClient\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\UMR.WebClient\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "D:\GitHub Projects\Patient\UMR\UMR.WebClient\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://spike:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = http://localhost/UMR.WebClient
+		SccProjectName1 = ../Patient/UMR/UMR.WebClient
+		SccLocalPath1 = ..\\Patient\\UMR\\UMR.WebClient
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D20F73F0-8D92-49A7-B581-96FFE24A5BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20F73F0-8D92-49A7-B581-96FFE24A5BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

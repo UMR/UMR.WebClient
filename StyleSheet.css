@@ -1,0 +1,81 @@
+﻿
+.tableLegend
+{
+	width: 100%;
+	border-top: solid 1px gray; /* #000000; */
+	border-right: solid 1px gray;
+}
+
+.tdLegend
+{
+	width: 25%;
+	font-family: Tahoma;
+	font-size: 8pt;
+	border-left: solid 1px gray;
+	border-bottom: solid 1px gray;
+}
+.lblDemographic
+{
+	font-family: Tahoma, Arial, Verdana;
+	font-size: 8pt;
+    color: Blue;
+}
+.lblDemographicContent
+{
+	font-family: Tahoma, Arial, Verdana;
+	font-size: 8pt;
+    color: Black;
+}
+/*
+A:visited
+{
+	color: Purple;
+	text-decoration: none;
+}
+A:link
+{
+	color: Blue;
+	text-decoration: underline;
+}
+A:hover
+{
+	color: Red;
+	background-color: HighlightTxt;
+	text-decoration: underline;
+}*/
+/*
+.button
+{
+	border: 1px solid gray;
+	padding: 4px;
+}*/
+
+.button
+{
+	background: transparent url(App_Themes/Default/Images/button_right_06.png) no-repeat right top;  /*Sliding right image */
+	display: block;
+	float: left;
+	height: 32px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 20px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */ /* FONT PROPERTIES */
+	text-decoration: none;
+	color: #000000;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:  bold;
+
+}
+
+.button span {
+    background: transparent url(App_Themes/Default/Images/button_left_06.png) no-repeat; /* Background left image */
+    display: block;
+    line-height: 22px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+    padding: 7px 0 5px 18px;
+} 
+
+.button:hover span
+{
+	color: White;	
+    /*text-decoration:underline; */
+
+

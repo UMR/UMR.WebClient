@@ -1,0 +1,34 @@
+﻿body 
+{
+	background-image:url(~/RadControls/Tabstrip/Skins/Office2007/img/body.JPG);
+	background-color:#3E72C6;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-right:0px;
+	font-family:Tahoma;
+	font-size:smaller;
+	color:Black;
+}
+table
+{
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	border-top-style: none;
+	padding-top: 0px;
+	border-right-style: none;
+	border-left-style: none;
+	border-bottom-style: none;
+}
+.header
+{
+	background-repeat:repeat;
+	height:40px;
+	background-image:url(~/RadControls/Tabstrip/Skins/Office2007/img/TabstripBackground1.gif);
+	clear:both;
+	display:block;
+	vertical-align:bottom;
+
+}

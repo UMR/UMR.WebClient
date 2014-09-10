@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sets>
+  <set name="common">
+    <url name="a">jquery.js</url>
+    <url name="b">tooltip.js</url>
+    <url name="c">ui.datepicker.js</url>
+    <url name="d">/RadControls/Splitter/Scripts/1_1_2/RadSplitter.js</url>
+    <url name="e">/RadControls/Grid/Scripts/4_5_2/RadAjaxNamespace.js</url>
+    <url name="f">/RadControls/Grid/Scripts/4_5_2/RadGrid.js</url>
+    <url name="g">/RadControls/Ajax/Scripts/1_6_2/RadAjaxNamespace.js</url>
+    <url name="h">/RadControls/Ajax/Scripts/1_6_2/RadAjax.js</url>
+    <url name="i">/RadControls/Window/Scripts/1_7_2/RadWindowClient.js</url>
+  </set>
+  <set name="result">
+    <url name="a">/RadControls/Dock/Scripts/1_7_2/RadDock.js</url>
+  </set>
+</sets>
+

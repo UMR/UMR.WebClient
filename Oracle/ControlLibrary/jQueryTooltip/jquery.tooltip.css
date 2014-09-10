@@ -1,0 +1,23 @@
+#tooltip
+{
+	font-family: Tahoma;
+	font-size: 8pt;
+	position: absolute;
+	z-index: 3000;
+	border: 1px solid #333;
+	background: #f7f5d1;
+	padding: 5px;
+	opacity: 0.85;
+}
+#tooltip #tooltip_header, #tooltip div
+{
+	margin: 0;
+	font-family: Tahoma;
+	font-size: 8pt;
+}
+.tooltip
+{
+	cursor: hand;
+	color:blue;
+    text-decoration:underline;
+}

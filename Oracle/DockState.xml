@@ -1,0 +1,8 @@
+<UserSettings>
+  <User UserID="rraquib">
+    <State Id="Childhood Disease History" Text="Childhood Disease History(CD)" ParentZoneId="ZoneRightBottomRight" Closed="false" InnerControlPath="~/Oracle/ControlLibrary/ucRDShell.ascx" />
+    <State Id="Cardiovascular Medicine" Text="Cardiovascular Medicine(CA)" ParentZoneId="ZoneRightBottomLeft" Closed="false" InnerControlPath="~/Oracle/ControlLibrary/ucRDShell.ascx" />
+    <State Id="Anesthesiology" Text="Anesthesiology(AN)" ParentZoneId="ZoneRightBottomRight" Closed="false" InnerControlPath="~/Oracle/ControlLibrary/ucRDShell.ascx" />
+    <State Id="Allergy of Medication" Text="Allergy of Medication(AM)" ParentZoneId="ZoneRightBottomLeft" Closed="false" InnerControlPath="~/Oracle/ControlLibrary/ucRDShell.ascx" />
+  </User>
+</UserSettings>

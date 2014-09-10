@@ -1,0 +1,11 @@
+<DockableObjects>
+  <State Id="Dock633128683131274343" Text="Gastrology" ParentZoneId="ZoneLeft" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683093794503" Text="Neurology" ParentZoneId="ZoneMiddle" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683156417069" Text="Cardiology" ParentZoneId="ZoneRight" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683131274344" Text="Oncology" ParentZoneId="ZoneLeft" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683093794504" Text="Nephrology" ParentZoneId="ZoneMiddle" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683156417070" Text="Pediatrics" ParentZoneId="ZoneRight" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683131274345" Text="Endocrinology" ParentZoneId="ZoneLeft" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683093794505" Text="Radiology" ParentZoneId="ZoneMiddle" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+  <State Id="Dock633128683156417071" Text="Rheumatology" ParentZoneId="ZoneRight" Closed="false" InnerControlPath="~/UserControls/DemoOrder.ascx" />
+</DockableObjects>

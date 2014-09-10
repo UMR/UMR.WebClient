@@ -1,0 +1,37 @@
+﻿.colorbutton
+{
+	border: none;
+	padding: 0;
+	margin: 0;
+	width: 100px;
+	overflow: visible;
+	text-align: center;
+	white-space: nowrap;
+	height: 22px; /*43px;*/
+	line-height: 20px; /*41px;*/
+	font-size: 7pt;
+	font-family: Tahoma;
+	cursor: hand;
+	font-weight: bold;
+}
+.colorbutton span, .colorbutton em
+{
+	display: block;
+	height: 22px; /*43px;*/
+	line-height: 20px; /*41px;*/
+	margin: 0;
+}
+.colorbutton span
+{
+	padding-left: 20px;
+	background: url(../ColorButton/button_transp_left.png) no-repeat 0px 0px;
+	/*background: url(../ColorButton/button_left.png) no-repeat 0px 0px;*/
+}
+.colorbutton em
+{
+	font-style: normal;
+	padding-right: 20px;
+	background: url(../ColorButton/button_transp_large.png) no-repeat 100% 0px;
+	/*background: url(../ColorButton/button.png) no-repeat 100% 0px;*/
+}
+
